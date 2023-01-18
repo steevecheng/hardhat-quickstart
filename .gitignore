@@ -1,0 +1,28 @@
+**/artifacts
+**/build
+**/cache
+**/coverage
+**/.coverage_artifacts
+**/.coverage_cache
+**/.coverage_contracts
+**/dist
+**/node_modules
+**/types
+
+# files
+*.env
+*.log
+.pnp.*
+coverage.json
+npm-debug.log*
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
